@@ -29,11 +29,13 @@ The Subscriptions and Cancellations tables from Jess Ramo's database using Hex w
 - For the completeness of the data, there are 22 cancelled subscriptions, with all of them selecting the 1st cancellation reason. 18 of them selected a 2nd cancellation reason, and 8 of them selected a 3rd cancellation reason. The users who didn't select the additional 2nd or 3rd reason could indicate frustration or a lack of interest for the user to provide feedback.
 - The average total reasons submitted by subscription (on a scale of 3) is 2.18, and the average additional reasons submitted by subscription is 1.18, which is a good number of users willing to provide feedback.
 - Here is a bar chart of the count of each cancellation reason for each of the 3 reason numbers:
-![image](https://github.com/user-attachments/assets/13ccf000-7261-43b7-8c71-42be59dbdc0a)
+<img width="1194" height="989" alt="image" src="https://github.com/user-attachments/assets/41b37630-16fd-416d-b232-5815de8093ec" />
+
 The 1st cancellation reason can be the primary reason that users feel strongly about since that reason would be the first reason that they think about. For the user's 1st cancellation reason, "not useful" was the biggest reason, followed by "expensive". For the 2nd cancellation reason, "went to a competitor" was the biggest reason.
 
 - Here is a line chart of the trends in 2022, 2023, and 2024:
-  ![image](https://github.com/user-attachments/assets/149757aa-de78-4652-a559-cd70364a46c6)
+<img width="1674" height="1011" alt="image" src="https://github.com/user-attachments/assets/5ce4b381-d8b1-4dc3-b2f7-4a120986f6d8" />
+
 
 Also, here are the trends in 2022, 2023, and 2024 in table format:
 
