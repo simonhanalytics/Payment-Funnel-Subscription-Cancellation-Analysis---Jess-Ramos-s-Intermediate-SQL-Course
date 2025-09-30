@@ -32,12 +32,12 @@ The subscriptions, payment_status_log, and payment_status_definitions tables fro
 ## Results
 
 - The majority of the subscriptions have not started the payment process. Here is a line chart illustrating the number of subscriptions for each payment funnel stage each year:
-<img width="1300" height="700" alt="image" src="https://github.com/user-attachments/assets/e6390b38-e44e-45c7-9f32-cb96fff787e8" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/e6390b38-e44e-45c7-9f32-cb96fff787e8" />
 
 - The conversion rate (the percentage of subscriptions that are successfully converted into a paid subscription) is 20.3%
 - Workflow completion rate (The percentage of subscriptions of those who started the payment that end up completing the payment) is 34.3%
 - The percentage of subscriptions that hit an error is 16.9%. Here is a column chart reflecting the number of subscriptions that do not have an error (light blue) and that do have an error (dark blue):
-<img width="1300" height="700" alt="image" src="https://github.com/user-attachments/assets/0cd1eee5-10cf-44b5-ad23-c8f702da1015" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/0cd1eee5-10cf-44b5-ad23-c8f702da1015" />
 
 
 	
