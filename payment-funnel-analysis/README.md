@@ -8,7 +8,8 @@ Customers have been signing up for a subscription. However, not all customers ha
 
 The finance team has noticed many unpaid subscriptions, and wants to work on resolving the issues since they have been negatively impacting the revenue. This is done by analyzing the subscription payment funnel stages in order to identify the stages with the most frequent errors, and to increase the conversion rate (the percentage of subscriptions that are successfully converted into a paid subscription). Each of the stages is shown in the following visual (by Jess Ramos) with a maxstatus from 1-5 assigned in each stage, with the goal having a complete payment (maxstatus = 5).
 
-![image](https://github.com/user-attachments/assets/e68e5da9-1cfc-48fc-a676-b4ab13a95b15)
+<img width="1659" height="416" alt="image" src="https://github.com/user-attachments/assets/edb3ec71-f9d2-4b64-af29-941ad5478b34" />
+
 
 
 ## Methodology
@@ -31,13 +32,13 @@ The subscriptions, payment_status_log, and payment_status_definitions tables fro
 ## Results
 
 - The majority of the subscriptions have not started the payment process. Here is a line chart illustrating the number of subscriptions for each payment funnel stage each year:
- ![image](https://github.com/user-attachments/assets/4dc82023-e13f-4279-b0e9-bab66d05d2f4)
-
+<img width="1663" height="1018" alt="image" src="https://github.com/user-attachments/assets/e6390b38-e44e-45c7-9f32-cb96fff787e8" />
 
 - The conversion rate (the percentage of subscriptions that are successfully converted into a paid subscription) is 20.3%
 - Workflow completion rate (The percentage of subscriptions of those who started the payment that end up completing the payment) is 34.3%
 - The percentage of subscriptions that hit an error is 16.9%. Here is a column chart reflecting the number of subscriptions that do not have an error (light blue) and that do have an error (dark blue):
-  ![image](https://github.com/user-attachments/assets/9c1a95fe-80f9-4eb7-89c0-9110f6e92b25)
+<img width="1673" height="956" alt="image" src="https://github.com/user-attachments/assets/0cd1eee5-10cf-44b5-ad23-c8f702da1015" />
+
 
 	
 ## Business Recommendations
