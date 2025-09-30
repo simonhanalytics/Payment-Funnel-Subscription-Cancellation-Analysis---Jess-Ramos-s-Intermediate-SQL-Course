@@ -16,7 +16,7 @@ The Subscriptions and Cancellations tables from Jess Ramo's database using Hex w
 - Using a view of the Unions CTE to enable us to reuse it in multiple queries.
 - Created a visualization outlining the number of each cancellation reason type for each of the 3 reasons provided, and identifying any reason number trends (faceting).
 - Computing the percentage of each cancellation reason for each year, and creating a line graph.
-- For the coding process, click [here](https://github.com/simonhsieh999/SQL_Subscription_Cancellation_Analysis/blob/main/Coding%20Process).
+- For the coding process, click [here](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/blob/main/subscription-cancellation-analysis/coding_process).
 
 ## Skills
 - SQL (Joins, aggregate functions, CTEs, Windows functions, Union, View creation)
