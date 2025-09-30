@@ -1,7 +1,5 @@
 # Payment Funnel Analysis
 
-This project is from Jess Ramos's [Big SQL Energy course](https://bigdataenergycourses.com/p/bigsqlenergy).
-
 ## Executive Summary
 
 Customers have been signing up for a subscription. However, not all customers have completed the entire payment process and paid for the subscription, leading to a loss in revenue. This analysis uses SQL to analyze each step of the entire payment funnel process to identify the causes of the unpaid subscriptions, and to figure out solutions to improve successful payments of the subscriptions.
