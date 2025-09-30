@@ -2,5 +2,5 @@
 
 This repository contains two case studies completed as part of Jess Ramos's [Big SQL Energy Intermediate course](https://bigdataenergycourses.com/p/bigsqlenergy).
 
-**Project 1:**
-**Project 2**
+**Project 1:** [Payment Funnel Analysis](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/blob/main/payment-funnel-analysis/README.md)
+**Project 2** [subscription Cancellation Analysis](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/blob/main/subscription-cancellation-analysis/README.md)
