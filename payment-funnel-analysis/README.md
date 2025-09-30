@@ -19,7 +19,7 @@ The subscriptions, payment_status_log, and payment_status_definitions tables fro
 - Counted the number of payment funnel stages in each year to showcase the distribution, and create a line chart of the distribution.
 - Calculated the conversion rate, workflow completion rate, and error rate.
 - Created visuals using Hex.
-- For the coding process, click [here](https://github.com/simonhsieh999/SQL_Payment_Funnel_Analysis/blob/main/Coding%20Process) to view it.
+- For the coding process, click [here](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/blob/main/payment-funnel-analysis/coding_process) to view it.
 
 ## Skills
 
