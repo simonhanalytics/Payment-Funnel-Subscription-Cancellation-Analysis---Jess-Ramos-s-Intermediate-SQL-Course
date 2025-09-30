@@ -1,7 +1,5 @@
 # Subscription Cancellation Analysis
 
-This project is from Jess Ramos's [Big SQL Energy course](https://bigdataenergycourses.com/p/bigsqlenergy).
-
 ## Executive Summary
 
 The technology company has subscription-based products in which after customers have enrolled in the subscription for 1 year, they then have the option to either renew the subscription or they can leave and churn. Currently the company has been dealing with a retention crisis where many customers have been cancelling their subscriptions instead of renewing, leading to a big loss in company revenue.  This analysis uses SQL to analyze the user's cancellation reasons to identify any trends and interesting insights in order to provide business recommendations that will improve future customer retention.
