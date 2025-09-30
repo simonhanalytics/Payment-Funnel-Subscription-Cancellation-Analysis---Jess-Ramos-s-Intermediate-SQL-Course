@@ -2,8 +2,10 @@
 
 This repository contains two case studies completed as part of Jess Ramos's [Big SQL Energy Intermediate course](https://bigdataenergycourses.com/p/bigsqlenergy).
 
-- **Project 1:** [Payment Funnel Analysis](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/tree/main/payment-funnel-analysis): Measuring user drop-off at each stage of the payment funnel.
-- **Project 2** [Subscription Cancellation Analysis](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/tree/main/subscription-cancellation-analysis): Exploring churn patterns and user behaviors leading to subscription cancellations.
+**Project 1:** [Payment Funnel Analysis](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/tree/main/payment-funnel-analysis): 
+- Measuring user drop-off at each stage of the payment funnel.
+**Project 2** [Subscription Cancellation Analysis](https://github.com/simonhanalytics/Payment-Funnel-Subscription-Cancellation-Analysis---Jess-Ramos-s-Intermediate-SQL-Course/tree/main/subscription-cancellation-analysis): 
+- Exploring churn patterns and user behaviors leading to subscription cancellations.
 
 ## SQL Skills Involved
 - Aggregate Functions
